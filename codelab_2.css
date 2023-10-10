@@ -1,0 +1,43 @@
+body {
+  background-color: deepskyblue;
+}
+
+.cus_login {
+  width: 380px;
+  margin: 3px auto;
+  margin: 30 0 0 450px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+#fname,
+#email {
+  background-color: rgb(228, 228, 228);
+  width: 370px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+
+#address {
+  background-color: rgb(228, 228, 228);
+  width: 370px;
+  height: 130px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+  line-height: 24px;
+}
+
+button {
+  margin-top: 4px;
+  background-color: rgb(0, 157, 255);
+  border-radius: 3px;
+  color: white;
+  border: none;
+  text-align: justify;
+}
